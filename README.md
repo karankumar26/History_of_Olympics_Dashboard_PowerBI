@@ -9,7 +9,7 @@
  
 ![image](https://github.com/karankumar26/History_of_Olympics_Dashboard_PowerBI/assets/147133944/922362ed-7f27-46c5-8dc4-3ec0f323ea6d)
 
-## Steps followed 
+# Steps followed 
 #### 1.	KPIs - Total number of Gold, Silver, Bronze Medals:
 Provides an overview of the distribution of gold, silver, and bronze medals across all seasons and sports.
 
@@ -41,12 +41,12 @@ Provides a tabular representation of the top-performing athletes who have achiev
 
 
 
-## Key Insights
+# Key Insights
 -	Participation Trends: The stacked area chart reveals any shifts in male and female participation over time, indicating changes in gender dynamics within the Olympics.
 -	Country Performance: The clustered bar chart offers insights into the countries with the highest number of participants and medals, reflecting the dominance of certain nations in the Olympic Games.
 -	Gender Disparities: The stacked bar chart helps in identifying any disparities in male and female participation across various sports, highlighting areas for improvement in gender equality.
 -	Seasonal Discrepancies: The donut chart showcases any variations in the distribution of medals between Summer and Winter seasons, providing insights into the performance trends across different climates and sports.
 
 
-## Conclusion:
+# Conclusion:
 Through this dashboard, we have gained valuable insights into the historical data of the Olympic Games, shedding light on participation trends, country performances, gender dynamics, and seasonal variations. These insights can inform decision-making processes for stakeholders involved in sports management, policy-making, and athlete development to enhance the inclusivity, diversity, and success of future Olympic events.

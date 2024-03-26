@@ -1,6 +1,6 @@
 # History of Olympics (1865- 2016)
 
-## Problem Statement
+# Problem Statement
 
 : The aim of this dashboard is to analyze the historical data of Olympic Games from 1865 to 2016 to gain insights into the participation trends, medal distribution, and top-performing athletes across different seasons and sports.
 

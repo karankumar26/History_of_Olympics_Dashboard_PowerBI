@@ -1,6 +1,6 @@
 # History of Olympics (1865- 2016)
 
-## Problem Statement:
+## Problem Statement
 
 The aim of this dashboard is to analyze the historical data of Olympic Games from 1865 to 2016 to gain insights into the participation trends, medal distribution, and top-performing athletes across different seasons and sports.
 
@@ -48,5 +48,5 @@ Provides a tabular representation of the top-performing athletes who have achiev
 -	Seasonal Discrepancies: The donut chart showcases any variations in the distribution of medals between Summer and Winter seasons, providing insights into the performance trends across different climates and sports.
 
 
-## Conclusion:
+## Conclusion
 Through this dashboard, we have gained valuable insights into the historical data of the Olympic Games, shedding light on participation trends, country performances, gender dynamics, and seasonal variations. These insights can inform decision-making processes for stakeholders involved in sports management, policy-making, and athlete development to enhance the inclusivity, diversity, and success of future Olympic events.
